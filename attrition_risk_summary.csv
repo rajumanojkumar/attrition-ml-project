@@ -1,0 +1,7 @@
+,EmployeeID,Attrition_Probability,Attrition_Probability,Attrition_Probability
+,count,mean,min,max
+Risk_Category,,,,
+Critical,331,0.88,0.8,0.98
+High,348,0.71,0.6,0.8
+Low,1375,0.16,0.03,0.3
+Medium,576,0.42,0.3,0.6
