@@ -11,9 +11,9 @@ Predicting employee attrition using machine learning on a HR dataset.
 - `Attrition_Data_Preprocessed.ipynb`: Data cleaning, encoding, and feature engineering.
 - `Attrition_Data_Preprocessed.csv`: Processed dataset.
 - `Attrition_Model_Training.ipynb`: Model building (Logistic Regression, ensembles), evaluation, and SHAP analysis.
-- 'attrition_final_blended_model.pkl': Saved Best Model.
-- 'Attrition_Test_Data_Preprocessed_and_Tested.ipynb': Testing on unseen data.
-- 'attrition_test_predictions_final.csv': Final predicted output on unseen data with Employee ID, Attrition, Probability and Risk Category.
+- `attrition_final_blended_model.pkl`: Saved Best Model.
+- `Attrition_Test_Data_Preprocessed_and_Tested.ipynb`: Testing on unseen data.
+- `attrition_test_predictions_final.csv`: Final predicted output on unseen data with Employee ID, Attrition, Probability and Risk Category.
 
 ## How to Run
 1. Clone: `git clone https://github.com/rajumanojkumar/attrition-ml-project.git`
