@@ -1,0 +1,12 @@
+# Virtual Env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/settings.json
+*.pyc
+
+# Data/Models (if large)
+data/raw/
+models/*.pkl  # Or commit small ones
