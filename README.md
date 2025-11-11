@@ -21,5 +21,5 @@ Predicting employee attrition using machine learning on a HR dataset.
 3. Run notebooks in Jupyter.
 
 ## Results
-- Best Model: Blended Model (Accuracy = 0.92, F1 Score = 0.87).
+- Best Model: Blended Model (Tuned models - Logistic Regression, Random Forest Classifier, XGBoost) - [Accuracy = 0.92, F1 Score = 0.87].
 - Key Insights: Overtime, MonthlyIncome and TravelProfile strongly predict attrition.
